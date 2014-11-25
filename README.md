@@ -3,7 +3,7 @@ Deployment of a Sample Node.js Application to a Cloud Foundry
 
 # Application Overview
 A barebones Node.js app using [Express 4](http://expressjs.com/) and [Famous](http://famo.us/).
-![screen](publick/images/screen.png)
+![screen](public/images/screen.png)
 
 ## Deployment to Cloudfoundry
 
