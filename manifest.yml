@@ -1,0 +1,7 @@
+---
+applications:
+- name: famous-sample
+  memory: 128M
+  instances: 1
+  host: famous-sample
+  path: .
